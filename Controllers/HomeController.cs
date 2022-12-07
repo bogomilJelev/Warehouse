@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using new_one.Models;
 using System.Diagnostics;
+using Warehouse.Core.Constants;
 
 namespace new_one.Controllers
 {
@@ -15,6 +16,7 @@ namespace new_one.Controllers
 
         public IActionResult Index()
         {
+            ViewData[MassageConstants.ErrorMassage] = "schupis se";
             return View();
         }
 
