@@ -16,7 +16,6 @@ namespace new_one.Controllers
 
         public IActionResult Index()
         {
-            ViewData[MassageConstants.ErrorMassage] = "schupis se";
             return View();
         }
 
