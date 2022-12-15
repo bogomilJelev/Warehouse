@@ -19,7 +19,7 @@ namespace Warehouse.ModelBinders
                 try
                 {
                     string decValue = valueResult.FirstValue;
-                    decValue = decValue.Replace(".", CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator);
+                    decValue = decValue.Replace(".", CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator);  
                     decValue = decValue.Replace(",", CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator);
 
                     actualValue = Convert.ToDecimal(decValue, CultureInfo.CurrentCulture);

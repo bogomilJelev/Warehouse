@@ -30,7 +30,7 @@ namespace Warehouse.ModelBinders
                 }
                 catch (FormatException)
                 {
-                    try
+                    try // if doesnt work exact parse
                     {
                         actualValue = DateTime.Parse(dateValue, new CultureInfo("bg-bg"));
                     }
