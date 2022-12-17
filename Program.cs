@@ -1,11 +1,10 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using new_one.Data;
-using Warehouse.Core.Constants;
 using Warehouse.Infrastructure.Data;
+using Warehouse.Core.Constants;
 using Warehouse.ModelBinders;
 
-namespace new_one
+namespace Warehouse
 {
     public class Program
     {
