@@ -22,3 +22,15 @@ C:\Users\bogomil\Desktop\warehouse2\Warehousee\Warehouse.Infrastructure\obj\Debu
 C:\Users\bogomil\Desktop\warehouse2\Warehousee\Warehouse.Infrastructure\obj\Debug\net6.0\refint\Warehouse.Infrastructure.dll
 C:\Users\bogomil\Desktop\warehouse2\Warehousee\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.pdb
 C:\Users\bogomil\Desktop\warehouse2\Warehousee\Warehouse.Infrastructure\obj\Debug\net6.0\ref\Warehouse.Infrastructure.dll
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.deps.json
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\bin\Debug\net6.0\Warehouse.Infrastructure.pdb
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.AssemblyInfo.cs
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\refint\Warehouse.Infrastructure.dll
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\Warehouse.Infrastructure.pdb
+C:\Users\bogomil\Desktop\warehouse2\Warehouse\Warehouse.Infrastructure\obj\Debug\net6.0\ref\Warehouse.Infrastructure.dll
