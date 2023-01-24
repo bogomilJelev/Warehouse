@@ -18,5 +18,8 @@ namespace Warehouse.Infrastructure.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Item> Items { get; set; }
         public DbSet<Rack> Racks { get; set; }
+        public DbSet<Contragent> Contragents { get; set; }
+        public DbSet<DealSubject> dealSubjects { get; set; }
+        public DbSet<Deal> Deals { get; set; }
     }
 }
