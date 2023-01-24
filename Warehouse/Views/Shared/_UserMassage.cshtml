@@ -1,0 +1,28 @@
+﻿@using Warehouse.Core.Constants
+
+@if (ViewData[MassageConstants.ErrorMassage] != null)
+{
+        <script>
+            $(function() {
+            toastr.error('@ViewData[MassageConstants.ErrorMassage]?.ToString()');
+            });
+        </script>
+}
+
+@if (ViewData[MassageConstants.WarningMassage] != null)
+{
+        <script>
+            $(function() {
+                toastr.warning('@ViewData[MassageConstants.WarningMassage]?.ToString()');
+            });
+        </script>
+}
+
+@if (ViewData[MassageConstants.SuccessMassage] != null)
+{
+        <script>
+            $(function() {
+            toastr.success('@ViewData[MassageConstants.SuccessMassage]?.ToString()');
+            });
+        </script>
+}
